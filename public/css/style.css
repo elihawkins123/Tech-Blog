@@ -1,5 +1,23 @@
 header, .project:not(:last-child) {
   border-bottom: 1px solid #ccc;
+  background-color: rgb(50, 23, 23);
+  color: white;
+}
+
+header h1 a {
+  color: rgb(50, 23, 23);
+  background: white;
+  padding: 10px;
+  border-radius: 10px;
+  box-shadow: #ffeeca 5px 5px;
+}
+
+header h1 {
+  margin: 20px;
+}
+
+nav a {
+  color: white;
 }
 
 .no-button {
