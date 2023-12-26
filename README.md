@@ -40,3 +40,6 @@ WHEN I am idle on the site for more than a set time
 THEN I am able to view posts and comments but I am prompted to log in again before I can add, update, or delete posts
 # Deployed Sites: 
 https://tech-blog-erh-10772dba6b3c.herokuapp.com/ 
+
+![image](https://github.com/elihawkins123/Tech-Blog/assets/135794159/28ab07db-9ccb-4beb-8372-a1eb841c93e5)
+
